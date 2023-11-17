@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @In7elligence
 - 🇩🇰 Danish Viking 💪😎
-- 🦾💻☕️⌚️💭 SWE Man.
+- 🦾💻☕️⌚️💭 Lead Engineer.
 - 👨‍💻💰Hustler
 - 📍Athens Greece 🇬🇷
 
