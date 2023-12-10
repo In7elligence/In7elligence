@@ -21,7 +21,6 @@
 ---
 
 ### 🧑‍💻 About Me :
-I build exceptional and accessible digital experiences for the web.
 
 - 🇩🇰 Danish Viking 💪😎
 - 🦾💻☕️⌚️💭 Lead Engineer
