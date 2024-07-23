@@ -26,7 +26,7 @@
 - 🦾💻☕️⌚️💭 Lead Engineer
 - 💰Hustler
 - 📺🧑‍🚀Interstellar is the best movie
-- 📍Athens Greece 🇬🇷
+- 📍Glasgow UK 🇬🇧
 
 ---
 
