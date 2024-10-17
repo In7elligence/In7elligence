@@ -30,7 +30,7 @@
 
 ---
 
-### ⌨️ Languages :
+### 👨‍💻 Languages :
 <!--- Languages -->
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
