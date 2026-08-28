@@ -37,7 +37,11 @@
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Sass.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Markdown-Dark.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/PHP-Dark.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 
 ---
@@ -47,11 +51,18 @@
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/NextJS-Dark.svg" title="NextJS" alt="NExtJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Electron.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/JQuery.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/TailwindCSS-Dark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/MaterialUI-Dark.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/DENO-Dark.svg" title="DENO" alt="DENO" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Kafka.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Symfony-Dark.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Laravel-Dark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
 ---
 
@@ -62,6 +73,7 @@
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Vercel-Dark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
 <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/Wordpress.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 
 <!---
